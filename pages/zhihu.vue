@@ -96,7 +96,7 @@
               <div class="card-header">
                 <nuxt-link to="/"  class="nav-bottom-item">
                   <i class="el-icon-user-solid"></i>
-                  创作中心123
+                  创作中心123456
                   <span class="user-lv">Lv{{user.lv}}</span>
                 </nuxt-link>
                  <nuxt-link to="/"  class="nav-bottom-item" style="text-align:right">></nuxt-link>
